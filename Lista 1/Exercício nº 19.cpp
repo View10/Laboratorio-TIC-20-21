@@ -18,3 +18,6 @@ int main(){
 	}	
 	return 0;
 }
+
+printf("Digite o nº de diárias: ");
+scanf("%d", &d);
